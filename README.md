@@ -1,4 +1,4 @@
-# Correlacão
+# Correlação
 Trata-se de exemplos escritos em linguagem Python do cálculo do coeficiente de correlação, descrito em detalhes no post em dataminutes.com/blog.
 
 Base de dados está disponível no kaggle assim como o dicionário em: https://www.kaggle.com/abcsds/pokemon
