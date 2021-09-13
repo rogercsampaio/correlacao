@@ -7,6 +7,8 @@ A base de dados utilizada no exemplo contém contém 721 pokémons incluindo nom
 Informações disponíveis:
 ![charmander1](https://user-images.githubusercontent.com/44443939/133061614-ac91aee6-1447-4e19-9873-54ae019f8224.PNG)
 
+Exemplo de amostra de 5 registros
+![res1copy](https://user-images.githubusercontent.com/44443939/133061939-e8db6caf-53b3-45e6-b441-22b76907d35b.png)
 
 
 
